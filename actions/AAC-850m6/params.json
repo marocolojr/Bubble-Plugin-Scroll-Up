@@ -1,0 +1,23 @@
+{
+    "category": "plugins",
+    "display": "Scroll Up",
+    "fields": {
+        "AAD": {
+            "caption": "X",
+            "default_val": 0,
+            "editor": "DynamicValue",
+            "name": "x",
+            "rank": 0,
+            "value": "number"
+        },
+        "AAE": {
+            "caption": "y",
+            "default_val": 0,
+            "editor": "DynamicValue",
+            "name": "y",
+            "rank": 1,
+            "value": "number"
+        }
+    },
+    "type": "client_side"
+}
